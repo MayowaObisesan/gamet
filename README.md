@@ -60,7 +60,9 @@ GMT Tokens in GameT are obtained when a player wins a race. For every race won, 
 
 GMT tokens are also obtained by winning a multiplayer races or by completing game tasks (such as: beat a track in 2 minutes, complete 2 air flips in a race in a specific track - these kinds of game tasks give small GMT tokens, not as much as winning a multiplayer game).
 
-The Game store is an online [*Game Store and Marketplace*](https://github.com/Joshaw-k/GameT), where once Players connect the wallets they use in the game, they would be able to see all their game assets: their NFTs, and their tokens and where they can buy GMT tokens as well as other game assets for use in the game.
+The Game store is an online [*Game Store and Marketplace*](https://game-t-alpha.vercel.app/), where once Players connect the wallets they use in the game, they would be able to see all their game assets: their NFTs, and their tokens and where they can buy GMT tokens as well as other game assets for use in the game.
+
+The repo to the Marketplace can be found [here](https://github.com/Joshaw-k/GameT).
 
 ## GameT Ad
 
@@ -86,9 +88,15 @@ Click on the image above to watch the demo video
 
 ![Image](./Readme_assets/screenshots/Gamet5.png)
 
+![Image](./Readme_assets/screenshots/GameTMk1.png)
+
+![Image](./Readme_assets/screenshots/GameTMk2.png)
+
+![Image](./Readme_assets/screenshots/GameTMk3.png)
+
 ---
 
-*Note: This project is a Base buildathon project and a proof-of-concept, it is still under development. Please use ERC-20 tokens responsibly and adhere to any relevant blockchain regulations.*
+*Note: This project is a Base buildathon project and a proo -of-concept, it is still under development. Please use ERC-20 tokens responsibly and adhere to any relevant blockchain regulations.*
 
 ---
 
