@@ -70,7 +70,7 @@ Click on the image above to watch the full ad video
 
 ### DEMO VIDEO
 
-[![GameT Demo Video at Buildathon Submission](./Readme_assets/GameT-logo.jpeg)](https://loom.com)
+[![GameT Demo Video at Buildathon Submission](./Readme_assets/GameT-Small.png)](https://loom.com)
 
 Click on the image above to watch the demo video
 
