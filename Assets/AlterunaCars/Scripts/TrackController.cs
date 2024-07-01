@@ -12,7 +12,7 @@ namespace AlterunaCars
 		public static bool IsStarted = true;
 		public static float StartTime;
 
-		public byte LapCount = 3;
+		public int LapCount = 1;
 
 		[Range(1, 64)] public int SegmentResolution = 8;
 
@@ -270,6 +270,24 @@ namespace AlterunaCars
 			Multiplayer.Sync(this);
 			// Invoke method for local player
 			PlayerReachedFinishLine(userId, time, lapTime);
+
+			// End of game logic
+			EndGame();
+		}
+
+		private void EndGame()
+		{
+			// Display game over screen or trigger other end-of-game events
+			Debug.Log("Game Over! All laps completed.");
+			// You can add more logic here, such as displaying a UI panel or stopping the game.
+			IsStarted = false;
+
+			// Create and save game record
+			// var gameRecord = new GameRecord(Multiplayer.GetUser().Index.ToString(), Multiplayer.GetUser().Name, LapCount);
+			// gameRecord.EndGame();
+			// FindObjectOfType<GameRecordManager>().AddRecord(gameRecord);
+
+			// Optionally, you can disable player controls or show a game over UI
 		}
 
 		[SynchronizableMethod]
