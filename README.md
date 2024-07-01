@@ -74,15 +74,17 @@ Click on the image above to watch the full ad video
 
 Click on the image above to watch the demo video
 
-### SCREENSHOTS OF ULTIMATE FOOTBALL
+### SCREENSHOTS OF GAMET
 
-![Image](./Readme_assets)
+![Image](./Readme_assets/screenshots/Gamet1.png)
 
-![Image](./Readme_assets)
+![Image](./Readme_assets/screenshots/Gamet2.png)
 
-![Image](./Readme_assets)
+![Image](./Readme_assets/screenshots/Gamet3.png)
 
-![Image](./Readme_assets)
+![Image](./Readme_assets/screenshots/Gamet4.png)
+
+![Image](./Readme_assets/screenshots/Gamet5.png)
 
 ---
 
