@@ -8,6 +8,8 @@
 
 GameT is an online racing game platform that combines a seamless web2 flow with a web3 backend. It is built using Unity, along with Thirdweb's Unity SDK, Connect SDK, and Smart Wallets. GameT aims to unlock value in the racing games industry by offering advantages such as ownership of game assets, transparency, security through blockchain immutability, and diverse monetization opportunities. It also provides interoperability, connection, and evolution in online gaming, allowing players from different countries to participate without traditional payment system or regional regulation restrictions.
 
+Interested in playing? Download the game's binary and files [here](https://1drv.ms/f/s!AmGlPz7_3AYRlgFFw1miGgg7xFop?e=svdahX) or you can build it from this repo.
+
 ## Technology Stack
 
 ### *Frameworks Used:*
